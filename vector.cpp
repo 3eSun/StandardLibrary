@@ -7,7 +7,7 @@ int main()
     vector<int> coll;    // vector container for integer elements
 
     // append elements with values 1 to 6
-    for (int i=1; i<=6; ++i) {
+    for (int i=1; i<=7; ++i) {
         coll.push_back(i);
     }
 
